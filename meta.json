@@ -3,5 +3,9 @@
   "hotfixesFormat": null,
   "requiresMpuc": 14,
   "versions": [
+    {
+      "id": "v0.0.19",
+      "releasedAt": 1718394492
+    }
   ]
 }
